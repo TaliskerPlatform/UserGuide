@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+  Copyright 2015 Mo McRoberts.
+
+  Licensed under the terms of the Creative Commons Attribution 4.0
+  International License (the "License"); you may not use this file
+  except in compliance with the license. You may read a summary of
+  the license and obtain the full legal text at: 
+
+    https://creativecommons.org/licenses/by/4.0/
+
+-->
+<legalnotice version="5.0" xml:lang="en-gb" xmlns="http://docbook.org/ns" xmlns:xinclude="http://www.w3.org/2001/XInclude" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="legal">
+	<para>
+		Copyright © 2015 Mo McRoberts.
+	</para>
+	<para>
+		The text of this book is licensed under the terms of the <citetitle><link xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International license</link></citetitle>.
+	</para>
+</legalnotice>
